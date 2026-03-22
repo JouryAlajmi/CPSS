@@ -1,0 +1,62 @@
+{
+  "appIsExample": false,
+  "appLayout": {
+    "type": "FLUID"
+  },
+  "applicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  },
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "color": "#FFEBFB",
+  "evaluationVersion": 2,
+  "icon": "shake-hands",
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": false
+    },
+    {
+      "id": "Wireframe",
+      "isDefault": false
+    },
+    {
+      "id": "HomePage",
+      "isDefault": true
+    },
+    {
+      "id": "Plant Details",
+      "isDefault": false
+    },
+    {
+      "id": "About",
+      "isDefault": false
+    },
+    {
+      "id": "Contact",
+      "isDefault": false
+    }
+  ],
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    },
+    "navigationSetting": {},
+    "themeSetting": {
+      "appMaxWidth": "LARGE",
+      "density": 1.0,
+      "sizing": 1.0
+    }
+  }
+}

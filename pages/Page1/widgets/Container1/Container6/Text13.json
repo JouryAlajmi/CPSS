@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 33,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bjm8yu0j16",
+  "leftColumn": 5,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 21,
+  "mobileLeftColumn": 25,
+  "mobileRightColumn": 41,
+  "mobileTopRow": 17,
+  "needsErrorInfo": false,
+  "originalBottomRow": 33,
+  "originalTopRow": 21,
+  "overflow": "NONE",
+  "parentColumnSpace": 3.4161224365234375,
+  "parentId": "dat5hudlot",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 52,
+  "shouldTruncate": false,
+  "text": "Plants:\n1-Areca Palm\n2-Monstera\n3-Peace Lily\n4-Philodendorn\n5-Calathea\n6-Boston Ferm\n",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 21,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "juyctc0egz",
+  "widgetName": "Text13"
+}

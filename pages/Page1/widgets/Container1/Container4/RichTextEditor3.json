@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 15,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultText": "Balanced Seasons modarate summer",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "flexVerticalAlignment": "start",
+  "inputType": "html",
+  "isDefaultClickDisabled": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isRequired": false,
+  "isToolbarHidden": true,
+  "isVisible": true,
+  "key": "ivxg05k5wf",
+  "labelAlignment": "left",
+  "labelPosition": "Top",
+  "labelText": "",
+  "labelWidth": 5,
+  "leftColumn": 7,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 28,
+  "mobileLeftColumn": 14,
+  "mobileRightColumn": 38,
+  "mobileTopRow": 8,
+  "needsErrorInfo": false,
+  "originalBottomRow": 15,
+  "originalTopRow": 5,
+  "parentColumnSpace": 3.219879150390625,
+  "parentId": "cxksugcbk8",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 58,
+  "topRow": 5,
+  "type": "RICH_TEXT_EDITOR_WIDGET",
+  "version": 1,
+  "widgetId": "lh5ede0yv4",
+  "widgetName": "RichTextEditor3"
+}

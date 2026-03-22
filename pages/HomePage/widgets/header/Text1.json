@@ -1,0 +1,49 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 5,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "Nunito Sans",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "gsr5nleihm",
+  "leftColumn": 0,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 5,
+  "mobileLeftColumn": 0,
+  "mobileRightColumn": 11,
+  "mobileTopRow": 1,
+  "needsErrorInfo": false,
+  "originalBottomRow": 6,
+  "originalTopRow": 1,
+  "overflow": "NONE",
+  "parentColumnSpace": 9.6171875,
+  "parentId": "j2v1i9zmms",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 17,
+  "shouldTruncate": false,
+  "text": "Climate Plant Shop",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 1,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "748qbnhtfk",
+  "widgetName": "Text1"
+}

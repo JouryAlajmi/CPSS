@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 33,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "go6fncyfyx",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 19,
+  "mobileLeftColumn": 19,
+  "mobileRightColumn": 35,
+  "mobileTopRow": 15,
+  "needsErrorInfo": false,
+  "originalBottomRow": 33,
+  "originalTopRow": 21,
+  "overflow": "NONE",
+  "parentColumnSpace": 2.0916748046875,
+  "parentId": "pehep1wbof",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 36,
+  "shouldTruncate": false,
+  "text": "Plants:\n1-Aloe Vera\n2-Snake Plant\n3-Cactus\n4-Jade Plant\n5-Agave\n6-Euphorbia",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 21,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "6v4o6rzx1c",
+  "widgetName": "Text3"
+}

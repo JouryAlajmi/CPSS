@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 8,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "1.875rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bjm8yu0j16",
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 7,
+  "mobileLeftColumn": 17,
+  "mobileRightColumn": 33,
+  "mobileTopRow": 3,
+  "needsErrorInfo": false,
+  "originalBottomRow": 8,
+  "originalTopRow": 0,
+  "overflow": "NONE",
+  "parentColumnSpace": 3.4161224365234375,
+  "parentId": "dat5hudlot",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 57,
+  "shouldTruncate": false,
+  "text": "Hot Humid Climate",
+  "textAlign": "CENTER",
+  "textColor": "#231F20",
+  "topRow": 0,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "9i97bqn3pe",
+  "widgetName": "Text12"
+}

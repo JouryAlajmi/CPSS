@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 28,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bjm8yu0j16",
+  "leftColumn": 1,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 25,
+  "mobileLeftColumn": 21,
+  "mobileRightColumn": 37,
+  "mobileTopRow": 21,
+  "needsErrorInfo": false,
+  "originalBottomRow": 28,
+  "originalTopRow": 16,
+  "overflow": "NONE",
+  "parentColumnSpace": 3.182159423828125,
+  "parentId": "cxksugcbk8",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 62,
+  "shouldTruncate": false,
+  "text": "Plants:\n1-Lavender\n2-Rosemary\n3-Geranium\n4-Begonia\n5-Pothos\n6-Spider Plant",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 16,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "e4zzzgycnl",
+  "widgetName": "Text8"
+}

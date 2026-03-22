@@ -1,0 +1,52 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 28,
+  "dynamicBindingPathList": [
+    {
+      "key": "truncateButtonColor"
+    },
+    {
+      "key": "fontFamily"
+    },
+    {
+      "key": "borderRadius"
+    }
+  ],
+  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "bjm8yu0j16",
+  "leftColumn": 4,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "minWidth": 450,
+  "mobileBottomRow": 17,
+  "mobileLeftColumn": 23,
+  "mobileRightColumn": 39,
+  "mobileTopRow": 13,
+  "needsErrorInfo": false,
+  "originalBottomRow": 28,
+  "originalTopRow": 16,
+  "overflow": "NONE",
+  "parentColumnSpace": 3.182159423828125,
+  "parentId": "som4x768h5",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 49,
+  "shouldTruncate": false,
+  "text": "Plants:\n1-Camellia\n2-Hydrangea\n3-Hosta\n4-Primrose\n5-Heuchera\n6-Cyclamen\n",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 16,
+  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "hques1ut76",
+  "widgetName": "Text10"
+}
