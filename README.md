@@ -2,37 +2,41 @@
 climate plant shop
 Plant locator helper
 Plant locator is a website that helps you decide which plant to get based on your climate, while also providing information, details, and resources about the plant.
-Our initial research suggests that many people buy plants that isn’t supposed to survive in their climate; which leads to wasting money and plants.
+Our initial research suggests that many people buy plants that isn’t supposed to survive in
+their climate; which leads to wasting money and plants.
 
 This projects offers a solution to this problem by organizing plants by climate categories so users can know exactly what plant can flourish in their climate.
 
 Tech Used
-Appsmith: to create the UI/UX prototype using no code/low code approach 
-HTML: for website structure
+Appsmith: to create the UI/UX prototype using no code/low code approach HTML: for website structure
+We designed the website via appsmith using low code/no code
 
-We designed the website via appsmith using low code/no code 
+Approach
+This website was designed using appsmith, which allowed us to work simultaneously while building a functional interface without having to worry about the coding aspect.
 
 Sitemap:
 This projects contains the following pages:
 -Homepage: Homepage introduces the plant shop and helps users start exploring plants based on climate categories.
-
 -About page: The about page explains the idea of the website and the goal of helping users choose plants based
 on their climate.
 
 -Contact page: The contact page allows users to send questions or inquiries about plants or orders.
-
 -Catalog page: The catalog page organizes plants based on climate type so users can easily find plants suitable
 for their environment.
-
 -plant details page: The plant details page provides full information about a plant, including care instructions such as
 watering and light needs.
 
-Optimization 
+Optimization
 The project could get future updates and developments would include the following:
--more plant varieties 
--making the website more accessible 
--better Ui
+-more plant varieties
+-making the website more accessible
+ 
+-better Ui/UX design
 -better scalability
+-better performance
+
+Github repository
+https://github.com/JouryAlajmi/CPSS.git
 
 Lessons learned
 Making this project; we learned to make a website from scratch, and we built it from merely an idea to a fully-working website.
